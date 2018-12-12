@@ -1,5 +1,7 @@
 {
   "name": "doubleJsaloon",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
